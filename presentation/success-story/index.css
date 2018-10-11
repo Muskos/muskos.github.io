@@ -1,0 +1,23 @@
+#cover h2 {
+    color: #fff;
+    text-align: left;
+    font-size: 70px;
+}
+
+#cover p {
+    margin: 10px 0 0;
+    text-align: left;
+    color: #fff;
+    font-style: italic;
+    font-size: 20px;
+}
+
+#cover p a {
+    color: #fff;
+}
+
+#school img {
+    width: 100%;
+    height: auto;
+    max-height: none;
+}
